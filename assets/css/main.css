@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #DC143C;
 		font-size: 3.5em;
 	}
 
@@ -2542,7 +2542,7 @@
 
 					#header > nav ul li a.active {
 						background: #fff;
-						color: #4acaa8 !important;
+						color: #DC143C !important;
 					}
 
 				#header > nav ul li:first-child {
